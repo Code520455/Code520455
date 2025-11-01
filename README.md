@@ -1,5 +1,5 @@
 # Hello Universe, I'm **Rahul Saha** 🌌  
-### *Web Developer | Cloud & Data Science Enthusiast *
+### *Web Developer | Cloud & Data Science Enthusiast*
 
 💻 Passionate about building responsive, data-driven, and intelligent web applications.  
 🚀 Currently exploring **Machine Learning**, **Cloud Computing**.  
