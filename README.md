@@ -1,8 +1,8 @@
 # 👋 Hello Universe, I'm **Rahul Saha** 🌌  
-### *Web Developer | Data Science Enthusiast | AI Explorer*
+### *Web Developer | Cloud & Data Science Enthusiast *
 
 💻 Passionate about building responsive, data-driven, and intelligent web applications.  
-🚀 Currently exploring **Machine Learning**, **Cloud Computing**, and **AI-powered automation**.  
+🚀 Currently exploring **Machine Learning**, **Cloud Computing**.  
 ✨ I love transforming ideas into real-world digital solutions.
 
 ---
@@ -13,7 +13,7 @@
 - 🧠 Learning: *Cloud Computing*, *AI & ML Techniques*  
 - 🤝 Open to collaborate on: **Predictive Maintenance Models**  
 - 💬 Ask me about: *Vue.js, Databricks, or Rail Break Prediction systems*  
-- ⚡ Fun fact: I debug faster with coffee ☕ and music 🎧  
+- ⚡ Fun fact: I debug faster with tea ☕ and music 🎧.... 
 
 ---
 
@@ -57,4 +57,5 @@
 ---
 
 ### 🎯 Quote I Live By  
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+> “If I try my best and fail,
+> well, I've tried my best.” — *Steve Jobs*
