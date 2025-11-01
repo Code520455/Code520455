@@ -19,7 +19,7 @@
 
 ### 🧩 Tech Stack & Tools
 
-<p align="left">
+<p align="middle">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript" /></a>
 <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python" /></a>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" title="C++" /></a>
