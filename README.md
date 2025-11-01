@@ -76,7 +76,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://github.com/Code520455" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" title="GitHub" /></a>
 <a href="https://linkedin.com/in/rahul-saha-639279259" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" title="LinkedIn" /></a>
 </p>
