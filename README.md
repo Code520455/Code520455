@@ -29,12 +29,12 @@
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" title="Microsoft Azure" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" /></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" width="45" height="45" title="Jupyter Notebook" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" title="Ubuntu" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" title="Kubernetes" /></a>
 <a href="https://wordpress.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" title="WordPress" /></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" width="40" height="40" title="Photoshop" /></a>
 </p>
-
 ---
 
 ### 🌐 Connect with Me
