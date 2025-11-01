@@ -18,32 +18,60 @@
 ---
 
 ### 🧩 Tech Stack & Tools
-
+<p align="middle"> <b>Languages</b> </p>
 <p align="middle">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript" /></a>
 <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python" /></a>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" title="C++" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" /></a>
 </p>
 
 ---
-<p>
+<p align="middle"> <b>Frontend</b> </p>
+<p align="middle">
 <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" title="Vue.js" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="40" height="40" /></a>
+</p>
+  
+---
+  
+<p align="middle"> <b>Backend</b> </p>
+<p align="middle">
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL" /></a>
 </p>
 
 ---
 
-<p>
+<p align="middle"> <b>Cloud</b> </p>
+<p align="middle">
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" title="Microsoft Azure" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" /></a>
+</p>
+
+<p align="middle"> <b>CMS</b> </p>
+<p align="middle">
+<a href="https://wordpress.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" title="WordPress" /></a>
+<a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="40" height="40" />
+</p>
+  
+---
+  
+<p align="middle"> <b>CODE EDITORS </b> </p>
+<p align="middle">
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" /></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" title="Jupyter Notebook" /></a>
+</p>
+  
+---
+  
+<p align="middle"> <b>OPERATING SYSTEMS💻</b> </p>
+<p align="middle">
+<a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" width="40" height="40" title="Windows" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" title="Ubuntu" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" title="Kubernetes" /></a>
 </p>
 
 ---
+
 <p>
 <a href="https://wordpress.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" title="WordPress" /></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" width="40" height="40" title="Photoshop" /></a>
