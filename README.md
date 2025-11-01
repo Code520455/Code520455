@@ -58,8 +58,9 @@
   
 <p align="middle"> <b>CODE EDITORS </b> </p>
 <p align="middle">
+<a href="https://colab.research.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=colab" width="40" height="40" title="Google Colab" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" title="Jupyter Notebook" /></a>
+<a href="https://jupyter.org/" target="_blank"><img src="[https://skillicons.dev/icons?i=jupyter](https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000)" width="40" height="40" title="Jupyter Notebook" /></a>
 </p>
   
 ---
@@ -71,12 +72,6 @@
 </p>
 
 ---
-
-<p>
-<a href="https://wordpress.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" title="WordPress" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" width="40" height="40" title="Photoshop" /></a>
-</p>
-
 
 ### 🌐 Connect with Me
 <p align="left">
