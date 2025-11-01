@@ -58,15 +58,14 @@
   
 <p align="middle"> <b>CODE EDITORS </b> </p>
 <p align="middle">
-<a href="https://colab.research.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=colab" width="40" height="40" title="Google Colab" /></a>
+<a href="https://colab.research.google.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" width="40" height="40" title="Google Colab" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" width="40" height="40" title="Jupyter Notebook" /></a>
 </p>
 
   
 ---
   
-<p align="middle"> <b>OPERATING SYSTEMS💻</b> </p>
+<p align="middle"> <b>OPERATING SYSTEMS</b> </p>
 <p align="middle">
 <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" width="40" height="40" title="Windows" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" title="Ubuntu" /></a>
