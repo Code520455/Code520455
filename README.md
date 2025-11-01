@@ -13,7 +13,7 @@
 - 🧠 Learning: *Cloud Computing*, *AI & ML Techniques*  
 - 🤝 Open to collaborate on: **Predictive Maintenance Models**  
 - 💬 Ask me about: *Vue.js, Databricks, or Rail Break Prediction systems*  
-- ⚡ Fun fact: I debug faster with tea ☕ and music 🎧.... 
+- ⚡ Fun fact: I love to finish my work with a cup of tea ☕ and music 🎧.... 
 
 ---
 
