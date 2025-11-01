@@ -14,7 +14,7 @@
 - Open to collaborate on: **Predictive Maintenance Models**  
 - Ask me about: *Databricks, Rail Break Prediction systems, CI/CD pipeline*  
 - Fun fact: I am appointed as the photographer of AIML (Artificial Intelligence and Machine Learning Club). One of my photographs was selected by inDaily to feature in a post.
-- Check out this link: <a>https://www.indailysa.com.au/news/business/2025/06/30/briefcase-business-snippets-from-around-south-australia-107<a>
+- Check out: <a>https://www.indailysa.com.au/news/business/2025/06/30/briefcase-business-snippets-from-around-south-australia-107<a>
 
 ---
 
