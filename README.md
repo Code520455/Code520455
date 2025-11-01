@@ -2,7 +2,7 @@
 ### *Web Developer | Cloud & Data Science Enthusiast*
 
 💻 Passionate about building responsive, data-driven, and intelligent web applications.  
-🚀 Currently exploring **Machine Learning**, **Cloud Computing**.  
+🚀 Currently exploring **ML Techniques**, **Power BI Tools**, **Azure Cloud Platform**.  
 ✨ I love transforming ideas into real-world digital solutions.
 
 ---
