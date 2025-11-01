@@ -12,7 +12,7 @@
 - ✉️ Reach me at: **[saha34175@gmail.com](mailto:saha34175@gmail.com)**  
 - 🧠 Learning: *Cloud Computing*, *AI & ML Techniques*  
 - 🤝 Open to collaborate on: **Predictive Maintenance Models**  
-- 💬 Ask me about: *Vue.js, Databricks, or Rail Break Prediction systems*  
+- 💬 Ask me about: *Databricks, Rail Break Prediction systems, CI/CD pipeline*  
 - ⚡ Fun fact: I love to finish my work with a cup of tea ☕ and music 🎧.... 
 
 ---
