@@ -24,6 +24,7 @@
 <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python" /></a>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" title="C++" /></a>
 <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" title="Vue.js" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" title="Microsoft Azure" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" /></a>
