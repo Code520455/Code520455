@@ -60,8 +60,9 @@
 <p align="middle">
 <a href="https://colab.research.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=colab" width="40" height="40" title="Google Colab" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="[[https://skillicons.dev/icons?i=jupyter]](https://icons8.com/icon/J0SgMWzAxqFj/jupyter)" width="40" height="40" title="Jupyter Notebook" /></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" width="40" height="40" title="Jupyter Notebook" /></a>
 </p>
+
   
 ---
   
